@@ -9,3 +9,4 @@ Dynamic Sky System
 ![screenshot_4](https://user-images.githubusercontent.com/32694412/31422108-e55b21da-ae08-11e7-8a5e-bfe4531d8359.png)
 ![screenshot_5](https://user-images.githubusercontent.com/32694412/31422109-e5880c18-ae08-11e7-8c8e-c5a5cf04f1df.png)
 ![screenshot_6](https://user-images.githubusercontent.com/32694412/31422165-3be2fe88-ae09-11e7-8998-a74ffc83dd1d.png)
+![screenshot_7](https://user-images.githubusercontent.com/32694412/31422256-bdf3661a-ae09-11e7-878e-aac6bfff135c.png)
