@@ -1,6 +1,10 @@
 # LSky-v3
 Dynamic Sky System
 
+Contact/Support: acsupp0r@gmail.com
+
++[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9EXLS6X6XEDJE)
+
 # Comming Soon
 
 ![screenshot_1](https://user-images.githubusercontent.com/32694412/31422103-e4df2f26-ae08-11e7-8a21-32fba3bd3e97.png)
