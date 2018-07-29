@@ -3,9 +3,12 @@ Dynamic Sky System
 
 Contact/Support: acsupp0r@gmail.com
 
-+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9EXLS6X6XEDJE)
+# LSky V3 will be released as CSky, there will be two versions, one for payment and one free, I decided to do this for the need of funds, the free version will bring all that already brought the version V2 of LSky, but improved and more optimized, the version payment will have features.
 
-# Comming Soon
+# First the paid version will be launched, when the new features are implemented in the paid version, the free version will be launched. the asset will be available in a few weeks for $ 9.99 without charges for upgrades, I decided that the launch will be in this way because unity is undergoing important changes to which CSky must adapt, which implies more work.
+
+# You can acquire CSky through this link when it is approved in the asset store: http://u3d.as/1em5
+
 
 ![screenshot_1](https://user-images.githubusercontent.com/32694412/31422103-e4df2f26-ae08-11e7-8a21-32fba3bd3e97.png)
 ![screenshot_2](https://user-images.githubusercontent.com/32694412/31422104-e509a8c8-ae08-11e7-9456-ce0c32c784c5.png)
