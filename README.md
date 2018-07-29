@@ -1,7 +1,7 @@
 # LSky-v3
 Dynamic Sky System
 
-Contact/Support: acsupp0r@gmail.com
+Contact/Support: acxstorage@gmail.com
 
 # LSky V3 will be released as CSky, there will be two versions, one for payment and one free, I decided to do this for the need of funds, the free version will bring all that already brought the version V2 of LSky, but improved and more optimized, the version payment will have features.
 
