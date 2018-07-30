@@ -2,10 +2,9 @@
 Dynamic Sky System
 
 Contact/Support: acxstorage@gmail.com
+# LSky V3 will be released as CSky, there will be two versions, one for payment and one free, I decided to do this for the need of financing for some things, the free version will bring all that already brought the version V2 of LSky, but improved and more optimized.
 
-# LSky V3 will be released as CSky, there will be two versions, one for payment and one free, I decided to do this for the need of funds, the free version will bring all that already brought the version V2 of LSky, but improved and more optimized, the version payment will have features.
-
-# First the paid version will be launched, when the new features are implemented in the paid version, the free version will be launched. the asset will be available in a few weeks for $ 9.99 without charges for upgrades, I decided that the launch will be in this way because unity is undergoing important changes to which CSky must adapt, which implies more work.
+# First the paid version will be launched, when the new features are implemented in the paid version, the free version will be launched. the asset will be available in a few weeks for $ 9.99 without charges for upgrades.
 
 # You can acquire CSky through this link when it is approved in the asset store: http://u3d.as/1em5
 
