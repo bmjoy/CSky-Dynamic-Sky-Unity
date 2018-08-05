@@ -1,5 +1,7 @@
-# CSky v1.0.2
+# CSky Dynamic Sky Sphere v1.0.2
 Dynamic Sky Sphere System
+
+collaborates with monetary aid to the development of the asset: https://www.patreon.com/ac_assets
 
 Contact/Support: acxstorage@gmail.com
 # Comming Soon
