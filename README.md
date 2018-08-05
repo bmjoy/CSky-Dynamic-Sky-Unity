@@ -1,7 +1,8 @@
-# CSky Dynamic Sky Sphere v1.0.2
-Dynamic Sky Sphere System
+# CSky Dynamic Sky v1.0.2
 
-collaborates with monetary aid to the development of the asset: https://www.patreon.com/ac_assets
+Dynamic Sky Sphere System for Unity 3d.
+
+If the asset is useful, you can help keep it alive from patreon: https://www.patreon.com/ac_assets
 
 Contact/Support: acxstorage@gmail.com
 # Comming Soon
