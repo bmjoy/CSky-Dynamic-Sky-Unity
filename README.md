@@ -2,7 +2,7 @@
 
 Dynamic Sky Sphere System for Unity 3d.
 
-If the asset is useful, you can help keep it alive from patreon: https://www.patreon.com/ac_assets
+If the asset is useful, you can help keep it alive from patreon: https://www.patreon.com/ac_csky
 
 Contact/Support: acxstorage@gmail.com
 
