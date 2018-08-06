@@ -18,7 +18,7 @@ Contact/Support: acxstorage@gmail.com
 - System DateTime Synchronization.
 - Sun And Moon Positions Based On DateTime.
 - HDR/LDR Support.
-- Fordward/Deferred Suport.
+- Fordward/Deferred Support.
 - Easy Setup.
 - PBR Support.
 
