@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ae0e2fdd4c0944578c27f523e506c26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_CloudsMaterial: {fileID: 2100000, guid: 8f5ef48059b6da449a78d465925a67a3, type: 2}
+  - m_DomeMesh: {fileID: 4300000, guid: b0df072daa3e6c84faf38e447a29a3ec, type: 2}
+  - m_Shader: {fileID: 4800000, guid: e335d29e19d764ae6a4479120ad010e8, type: 3}
+  - m_SkySphere: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

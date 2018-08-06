@@ -1,0 +1,25 @@
+
+V1.0 First Release.
+//-------------------------------------------------------------------------------------
+
+
+V1.0.2
+
+Fixes:
+
+-Fixed vertex color stars.
+-Fixed the intensity does not work when the moon does not affect the rayleigh.
+-Adjust moon phases intensity.
+
+
+Added:
+
+-Added moon brigtness parameter.
+-Added update refresh for environment lighting.
+
+Changes:
+
+-Now the asset is of free code.
+
+//--------------------------------------------------------------------------------------
+

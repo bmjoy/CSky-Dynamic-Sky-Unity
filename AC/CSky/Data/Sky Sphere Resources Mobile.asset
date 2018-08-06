@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bd2a8e1d3e8440c48535f74e3bc3ada, type: 3}
+  m_Name: Sky Sphere Resources Mobile
+  m_EditorClassIdentifier: 
+  sphereLOD0: {fileID: 4300000, guid: 411311cf3d1c11747bf38eee1b3fd3f7, type: 2}
+  sphereLOD1: {fileID: 4300000, guid: b250b63290f1a6248964185185ad678a, type: 2}
+  sphereLOD2: {fileID: 4300000, guid: b0df072daa3e6c84faf38e447a29a3ec, type: 2}
+  sphereLOD3: {fileID: 4300000, guid: 95183bccf1eebd840953facfaeed1317, type: 2}
+  quadMesh: {fileID: 4300000, guid: 8498b9f208ecb054b8d707d3d7311441, type: 2}
+  StarsLOD0: {fileID: 4300000, guid: b4ad320b111af4141b0834b9630bbf64, type: 2}
+  StarsLOD1: {fileID: 4300000, guid: 0cc86ded436184cca9a66b276a21a33b, type: 2}
+  StarsLOD2: {fileID: 4300000, guid: 1589e3cfa5ebd424385cc856aaf4ffac, type: 2}
+  backgroundShader: {fileID: 4800000, guid: 42dbab1605b8a4347816031f47e33727, type: 3}
+  starsFieldShader: {fileID: 4800000, guid: 42b0cc2fae51d4f9fad546b807096806, type: 3}
+  sunShader: {fileID: 4800000, guid: dfc222c22ae814484abbe6e4039f2b91, type: 3}
+  moonShader: {fileID: 4800000, guid: c771bf95c4c3a4dfa9a6ce9677cf8c37, type: 3}
+  defautlAtmosphereShader: {fileID: 4800000, guid: e9d729ed0fcb54d09a6d16e8e5c28c7c,
+    type: 3}
+  PreethamAtmosphereShader: {fileID: 4800000, guid: b7d1b5134ccb5435bbe217cd8818a623,
+    type: 3}
+  defautlSkyboxShader: {fileID: 4800000, guid: a9871cec82d934c7682f9df17815be7f, type: 3}
+  PreethamSkyboxShader: {fileID: 4800000, guid: 7be2104c6aa3a4256802a857fe6d89fc,
+    type: 3}
+  backgroundMaterial: {fileID: 2100000, guid: 21e093b04bbde1e498ab06c037733c31, type: 2}
+  starsFieldMaterial: {fileID: 2100000, guid: c0dfbcf09b56c0746af8029bb0c57d79, type: 2}
+  sunMaterial: {fileID: 2100000, guid: e78e44c1201347447b94823f2c48f36e, type: 2}
+  moonMaterial: {fileID: 2100000, guid: 0035bdd38b4a79042a6650607578c78c, type: 2}
+  atmosphereMaterial: {fileID: 2100000, guid: 4a9b21760969a9b44aeac21686e9cbf5, type: 2}
+  skyboxMaterial: {fileID: 2100000, guid: b7ab6d7747d134243aa6407223cf173b, type: 2}
