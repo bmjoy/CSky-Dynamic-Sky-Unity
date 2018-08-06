@@ -6,7 +6,7 @@ If the asset is useful, you can help keep it alive from patreon: https://www.pat
 
 Contact/Support: acxstorage@gmail.com
 
-# Feautures
+# Features
 - Physically based shading.
 - Per Pixel And Per Vertex Atmosphere Quality.
 - Two Atmosphere Models.
@@ -28,10 +28,7 @@ Contact/Support: acxstorage@gmail.com
 - When an element of the skysphere is selected to be reflected in the reflection probe, the skybox is not reflected.
 
 # Future
-If I receive enough support in patreon, the asset will receive updates more regularly, if not, it will probably take longer. at the moment I am working with godot since for some reasons I can only work in linux at the moment.
-
-# Realistic Clouds, Procedural Stars Field, Curve And Gradient System will come in the future
-
+If I receive enough support in patreon, the asset will receive updates more regularly, if not, it will probably take longer. 
 
 ![screenshot_1](https://user-images.githubusercontent.com/32694412/31422103-e4df2f26-ae08-11e7-8a21-32fba3bd3e97.png)
 ![screenshot_2](https://user-images.githubusercontent.com/32694412/31422104-e509a8c8-ae08-11e7-9456-ce0c32c784c5.png)
