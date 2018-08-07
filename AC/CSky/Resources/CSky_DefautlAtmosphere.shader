@@ -65,7 +65,7 @@ Shader "AC/CSky/Defautl Atmosphere"
 				float3 ray = normalize(o.worldPos);
 				//================================================================================================================================
 				
-				AtmosphericScattering(float3(ray.x, abs(ray.y), ray.z), o.inscatter, o.outscatter, 1);
+				AtmosphericScattering(float3(ray.x, abs(ray.y+CSky_HorizonOffset), ray.z), o.inscatter, o.outscatter, 1);
 				//================================================================================================================================
 
 			#else
@@ -75,7 +75,7 @@ Shader "AC/CSky/Defautl Atmosphere"
 
 				half3 inscatter; half4 outscatter;
 
-				AtmosphericScattering(float3(ray.x, abs(ray.y), ray.z), inscatter, outscatter, 1);
+				AtmosphericScattering(float3(ray.x, abs(ray.y+CSky_HorizonOffset), ray.z), inscatter, outscatter, 1);
 				//================================================================================================================================
 
 				float  sunCosTheta  = dot(ray, CSky_SunDirection.xyz);

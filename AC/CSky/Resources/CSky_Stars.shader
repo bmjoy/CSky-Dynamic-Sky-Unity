@@ -64,6 +64,7 @@ Shader "AC/CSky/Stars"
 			half4  color    : COLOR;
 			float2 texcoord : TEXCOORD0;
 			float3 worldPos : TEXCOORD1;
+			float2 noiseCoords : TEXCOORD2;
 			float4 vertex   : SV_POSITION;
 			UNITY_VERTEX_OUTPUT_STEREO
 		};
@@ -91,6 +92,8 @@ Shader "AC/CSky/Stars"
 				o.texcoord = v.texcoord;
 			#endif
 			//============================================
+
+			o.noiseCoords = (o.worldPos.xz / (o.worldPos.y+0.03) * _NoiseSize) + _Time.xx * _ScintillationSpeed;
 
 			o.color = v.color;
 			//============================================
@@ -125,7 +128,7 @@ Shader "AC/CSky/Stars"
 			color *= _Color * _Intensity;
 			//===================================================================
 
-			color = lerp(color, color * (tex2D(_NoiseTex, ((i.worldPos.xy / i.worldPos.z)*_NoiseSize) + _Time.xx * _ScintillationSpeed)), _Scintillation);
+			color = lerp(color, color * tex2D(_NoiseTex, i.noiseCoords), _Scintillation);
 			//===================================================================
 
 			ColorCorrection(color);

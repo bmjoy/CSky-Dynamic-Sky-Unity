@@ -95,9 +95,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - CSky_HorizonFade: 0.06
+    - CSky_HorizonFade: 0.3
     - _BumpScale: 1
-    - _Coverage: 5.48
+    - _Coverage: 4.92
     - _Cutoff: 0.5
     - _Density: 0.2
     - _DetailNormalMapScale: 1
@@ -105,13 +105,13 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Intensity: 1.65625
+    - _Intensity: 2.1875
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _Saturation: 1
-    - _Scale: 0.07
+    - _Scale: -0.18
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _Speed: 0.1
@@ -121,6 +121,6 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _CloudColor: {r: 1, g: 1, b: 1, a: 0.5}
-    - _Color: {r: 0.74087083, g: 0.63865197, b: 0.39351457, a: 2}
+    - _Color: {r: 0.2073495, g: 0.23463751, b: 0.2618395, a: 2}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Speed: {r: 0.016666668, g: 0.01, b: -0.023333333, a: -0.1}

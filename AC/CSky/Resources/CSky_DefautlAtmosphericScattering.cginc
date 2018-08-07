@@ -49,7 +49,7 @@ inline void AtmosphericScattering(float3 ray, out float3 inscatter, out float4 o
 {
 
 
-	ray.y += CSky_HorizonOffset;
+	//ray.y += CSky_HorizonOffset;
 
 	// Fix downside.
 
@@ -138,7 +138,7 @@ inline void RayleighScattering(float3 ray, out float3 inscatter, int clampScatte
 {
 
 
-	ray.y += CSky_HorizonOffset;
+	//ray.y += CSky_HorizonOffset;
 
 	// Fix downside.
 

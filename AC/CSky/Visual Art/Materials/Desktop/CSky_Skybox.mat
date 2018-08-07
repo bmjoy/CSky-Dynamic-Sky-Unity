@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: CSky_Skybox
-  m_Shader: {fileID: 4800000, guid: 7be2104c6aa3a4256802a857fe6d89fc, type: 3}
+  m_Shader: {fileID: 4800000, guid: a9871cec82d934c7682f9df17815be7f, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0

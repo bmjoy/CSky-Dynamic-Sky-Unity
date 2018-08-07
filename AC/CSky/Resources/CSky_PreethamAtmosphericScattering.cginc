@@ -40,7 +40,7 @@ inline float RayleighPhase(float cosTheta)
 inline void OpticalDepth(half dir, inout half3 sr, inout half3 sm)
 {
 
-	float h = saturate((dir +  CSky_HorizonOffset));
+	float h = saturate((dir));
 	float3 zenith = acos(h);
 	zenith        = (cos(zenith) + 0.15 * pow(93.885 - ((zenith * 180.0) / UNITY_PI), -1.253));
 
@@ -54,7 +54,7 @@ inline void OpticalDepth(half dir, inout half3 sr, inout half3 sm)
 inline void OpticalDepth(float ray, inout float3 sr, inout float3 sm)
 {
 
-	float h = saturate((ray + CSky_HorizonOffset));
+	float h = saturate((ray));
 	float f = pow(h, 0.25); // h 1 / 5.0
 	float t = (1.05 - f) * 190000;
 

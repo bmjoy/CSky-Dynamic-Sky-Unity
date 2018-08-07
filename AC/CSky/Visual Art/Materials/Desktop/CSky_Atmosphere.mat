@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: CSky_Atmosphere
-  m_Shader: {fileID: 4800000, guid: b7d1b5134ccb5435bbe217cd8818a623, type: 3}
+  m_Shader: {fileID: 4800000, guid: e9d729ed0fcb54d09a6d16e8e5c28c7c, type: 3}
   m_ShaderKeywords: CSky_DITHERING_OUTPUT
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0

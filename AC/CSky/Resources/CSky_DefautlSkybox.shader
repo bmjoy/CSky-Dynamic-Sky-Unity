@@ -54,7 +54,7 @@ Shader "AC/CSky/Defautl Skybox"
 
 			half3 inscatter; 
 
-			RayleighScattering(ray, inscatter, 1);
+			RayleighScattering(float3(ray.x, abs(ray.y+CSky_HorizonOffset), ray.z), inscatter, 1);
 			//==========================================================================
 
 			o.color.rgb = inscatter.rgb;

@@ -52,7 +52,7 @@ Shader "AC/CSky/Preetham Skybox"
 
 			half3 sR; half3 sM;
 
-			OpticalDepth(abs(ray.y), sR, sM);
+			OpticalDepth(abs(ray.y+CSky_HorizonOffset), sR, sM);
 			//================================================================================================================
 
 			float2 cosTheta  = float2(dot(ray, CSky_SunDirection.xyz), dot(ray, CSky_MoonDirection.xyz));

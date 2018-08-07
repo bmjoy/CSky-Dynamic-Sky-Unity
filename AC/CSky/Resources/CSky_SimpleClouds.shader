@@ -95,6 +95,7 @@ Shader "AC/CSky/Simple Clouds"
 			//=======================================================================
 
 			o.worldPos = normalize(mul((float3x3)unity_ObjectToWorld, v.vertex.xyz));
+			o.worldPos.y += 0.3;
 			o.texcoord = o.worldPos.xz / o.worldPos.y; //(o.vertex.xy / o.vertex.w + 1) * 0.5;
 			o.texcoord *= _Scale;
 			//=======================================================================
